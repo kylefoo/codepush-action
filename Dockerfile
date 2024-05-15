@@ -1,4 +1,4 @@
-FROM node:16-slim
+FROM node:18-slim
 
 LABEL version="1.1.0"
 LABEL repository="https://github.com/kylefoo/codepush-action"
